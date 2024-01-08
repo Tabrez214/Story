@@ -1,0 +1,17 @@
+[33mcommit d486e926ec259faee0f6179cc3a837b058487fac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32malien-plot[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Mon Jan 8 19:21:45 2024 +0530
+
+    modify chapter 1 and chapter 2
+
+[33mcommit 4f62952e0ac8434a79beb8e8ef6ae606f49fd7b9[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Mon Jan 8 16:51:20 2024 +0530
+
+    Complete chapter 2
+
+[33mcommit 085b6fc3c30314d5d77d26d4818349526df2aba3[m
+Author: Your Name <you@example.com>
+Date:   Mon Jan 8 16:47:53 2024 +0530
+
+    Complete chapter 1
